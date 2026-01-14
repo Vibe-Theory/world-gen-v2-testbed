@@ -1,0 +1,18 @@
+{
+  "Group": "WorldGenv2Testing",
+  "Name": "World Gen v2 Testbed",
+  "Version": "1.0.0",
+  "Description": "Custom WorldGen Test",
+  "Authors": [
+    {
+      "Name": "Nylaro & Vibe Theory",
+      "Email": "example@example.com",
+      "Url": "https://your-url.com"
+    }
+  ],
+  "Website": "https://your-website.com",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false
+}
