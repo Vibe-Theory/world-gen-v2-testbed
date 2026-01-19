@@ -5,7 +5,7 @@
   "Description": "Custom WorldGen Test",
   "Authors": [
     {
-      "Name": "Nylaro & Vibe Theory",
+      "Name": "Nylaro",
       "Email": "example@example.com",
       "Url": "https://your-url.com"
     }
@@ -15,4 +15,5 @@
   "Dependencies": {},
   "OptionalDependencies": {},
   "DisabledByDefault": false
+
 }
